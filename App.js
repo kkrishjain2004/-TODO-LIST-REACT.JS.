@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import './App.css';
-import 'react-notifications/lib/notifications.css';
+
 
 function App() {
 
